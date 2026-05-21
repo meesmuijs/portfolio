@@ -1,0 +1,22 @@
+.centered-content-wrap {
+padding: 0 20px;
+position: relative;
+width: 100%;
+}
+* {
+box-sizing: border-box;
+}
+User Agent Style Sheetaddress, article, aside, div, footer, header, hgroup, main, nav, search, section {
+display: block;
+}
+html {
+-webkit-font-smoothing: antialiased;
+text-rendering: optimizeLegibility;
+}
+html {
+font-family: sans-serif;
+-webkit-text-size-adjust: 100%;
+}
+User Agent Style Sheethtml {
+color: canvastext;
+}
